@@ -37,10 +37,8 @@ func (statusBox *StatusBox) InitializeWithTypeAndAppend(level *Level, itemType I
 
 func (statusBox *StatusBox) Render(context *Context, x int, y int, w int) {
 	statusBox.HeaderBox.Render(context, x, y, w)
-	fmt.Printf("Header at %d\n", y)
 	y += statusBox.HeaderBox.GetHeight()
 	for _, box := range statusBox.Boxes {
-		fmt.Printf("  [-] Box at %d\n", y)
 		box.Render(context, x, y, w)
 		y += box.GetHeight()
 	}

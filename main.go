@@ -4,12 +4,17 @@ import (
 	"bufio"
 	"code.google.com/p/freetype-go/freetype"
 	"code.google.com/p/freetype-go/freetype/truetype"
-	"fmt"
+	"flag"
 	"image"
 	"image/draw"
 	"image/png"
 	"io/ioutil"
 	"os"
+)
+
+var (
+	outputFile = flag.String("output", "out.png", "path to ouput file")
+	key        = flag.String("key", "", "API key")
 )
 
 type Context struct {
@@ -19,10 +24,7 @@ type Context struct {
 	FontSize    float64
 }
 
-func main() {
-	database := CreateDatabaseFor("123456789", 2, 3)
-	fmt.Printf("Database size: %d\n", database.GetSize())
-	levels := database.GetLevels()
+func Render(levels []Level) {
 	levelBoxes := make([]*LevelBox, len(levels))
 	maxHeight := 0
 
@@ -46,11 +48,21 @@ func main() {
 	for i, levelBox := range levelBoxes {
 		levelBox.Render(&context, i*120, 0, 100)
 	}
+	for i, levelBox := range levelBoxes {
+		levelBox.Render(&context, i*120, 0, 100)
+	}
 
-	file, _ := os.Create("test.png")
+	file, _ := os.Create(*outputFile)
 	defer file.Close()
 
 	b := bufio.NewWriter(file)
 	png.Encode(b, context.Img)
 	b.Flush()
+}
+
+func main() {
+	flag.Parse()
+	database := CreateDatabaseFor(*key, 2, 3)
+	levels := database.GetLevels()
+	Render(levels)
 }

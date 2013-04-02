@@ -16,8 +16,10 @@ type Box struct {
 func (box *Box) Render(context *Context, x int, y int, w int) {
 	rectangle := image.Rect(x, y, x+w, y+box.GetHeight())
 	draw.Draw(context.Img, rectangle, &image.Uniform{&box.Color}, image.ZP, draw.Src)
-	typeRectangle := image.Rect(x, y, x+10, y+box.GetHeight())
-	draw.Draw(context.Img, typeRectangle, &image.Uniform{&box.TypeColor}, image.ZP, draw.Src)
+	rectangle = image.Rect(x, y, x+10, y+box.GetHeight())
+	draw.Draw(context.Img, rectangle, &image.Uniform{&color.RGBA{0, 0, 0, 255}}, image.ZP, draw.Src)
+	rectangle = image.Rect(x+2, y, x+8, y+box.GetHeight())
+	draw.Draw(context.Img, rectangle, &image.Uniform{&box.TypeColor}, image.ZP, draw.Src)
 	box.RenderText(context, x+10, y)
 }
 

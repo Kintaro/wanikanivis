@@ -3,7 +3,6 @@ package main
 import (
 	"container/list"
 	"encoding/json"
-	"fmt"
 )
 
 type Database struct {
@@ -64,7 +63,6 @@ func (database *Database) ParseRequestedInformation(requested_information Reques
 	}
 	item := NewItemFromJson(requested_information)
 	item.Type = itemType
-	fmt.Printf("Adding item %s\n", item.Name)
 	database.Items.PushBack(&item)
 }
 
