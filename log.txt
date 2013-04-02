@@ -1,0 +1,1600 @@
+Rendering statusbox at (%!i(int=0), %!i(int=0))
+Rendering statusbox at (%!i(int=0), %!i(int=0))
+  Rendering box at (%!i(int=0), %!i(int=0))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=20))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=40))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=60))
+    Printing text 七
+  Rendering box at (%!i(int=0), %!i(int=80))
+    Printing text 女
+  Rendering box at (%!i(int=0), %!i(int=100))
+    Printing text 工
+  Rendering box at (%!i(int=0), %!i(int=120))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=140))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=160))
+    Printing text 
+Rendering statusbox at (%!i(int=0), %!i(int=180))
+  Rendering box at (%!i(int=0), %!i(int=180))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=200))
+    Printing text 口
+  Rendering box at (%!i(int=0), %!i(int=220))
+    Printing text 
+Rendering statusbox at (%!i(int=0), %!i(int=240))
+  Rendering box at (%!i(int=0), %!i(int=240))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=260))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=280))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=300))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=320))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=340))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=360))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=380))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=400))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=420))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=440))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=460))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=480))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=500))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=520))
+    Printing text 入
+  Rendering box at (%!i(int=0), %!i(int=540))
+    Printing text 二
+  Rendering box at (%!i(int=0), %!i(int=560))
+    Printing text 力
+  Rendering box at (%!i(int=0), %!i(int=580))
+    Printing text 三
+  Rendering box at (%!i(int=0), %!i(int=600))
+    Printing text 大
+  Rendering box at (%!i(int=0), %!i(int=620))
+    Printing text 山
+  Rendering box at (%!i(int=0), %!i(int=640))
+    Printing text 九
+  Rendering box at (%!i(int=0), %!i(int=660))
+    Printing text 川
+  Rendering box at (%!i(int=0), %!i(int=680))
+    Printing text 人
+  Rendering box at (%!i(int=0), %!i(int=700))
+    Printing text 八
+  Rendering box at (%!i(int=0), %!i(int=720))
+    Printing text 十
+  Rendering box at (%!i(int=0), %!i(int=740))
+    Printing text 上
+  Rendering box at (%!i(int=0), %!i(int=760))
+    Printing text 一
+  Rendering box at (%!i(int=0), %!i(int=780))
+    Printing text 下
+  Rendering box at (%!i(int=0), %!i(int=800))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=820))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=840))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=860))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=880))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=900))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=920))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=940))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=960))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=980))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=1000))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=1020))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=1040))
+    Printing text 
+  Rendering box at (%!i(int=0), %!i(int=1060))
+    Printing text 
+Rendering statusbox at (%!i(int=0), %!i(int=1080))
+Rendering statusbox at (%!i(int=100), %!i(int=0))
+  Rendering box at (%!i(int=100), %!i(int=0))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=20))
+    Printing text 手
+  Rendering box at (%!i(int=100), %!i(int=40))
+    Printing text 
+Rendering statusbox at (%!i(int=100), %!i(int=60))
+  Rendering box at (%!i(int=100), %!i(int=60))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=80))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=100))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=120))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=140))
+    Printing text 四
+  Rendering box at (%!i(int=100), %!i(int=160))
+    Printing text 中
+  Rendering box at (%!i(int=100), %!i(int=180))
+    Printing text 丸
+  Rendering box at (%!i(int=100), %!i(int=200))
+    Printing text 土
+  Rendering box at (%!i(int=100), %!i(int=220))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=240))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=260))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=280))
+    Printing text 
+Rendering statusbox at (%!i(int=100), %!i(int=300))
+  Rendering box at (%!i(int=100), %!i(int=300))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=320))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=340))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=360))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=380))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=400))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=420))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=440))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=460))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=480))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=500))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=520))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=540))
+    Printing text 千
+  Rendering box at (%!i(int=100), %!i(int=560))
+    Printing text 丁
+  Rendering box at (%!i(int=100), %!i(int=580))
+    Printing text 水
+  Rendering box at (%!i(int=100), %!i(int=600))
+    Printing text 火
+  Rendering box at (%!i(int=100), %!i(int=620))
+    Printing text 田
+  Rendering box at (%!i(int=100), %!i(int=640))
+    Printing text 白
+  Rendering box at (%!i(int=100), %!i(int=660))
+    Printing text 又
+  Rendering box at (%!i(int=100), %!i(int=680))
+    Printing text 月
+  Rendering box at (%!i(int=100), %!i(int=700))
+    Printing text 刀
+  Rendering box at (%!i(int=100), %!i(int=720))
+    Printing text 天
+  Rendering box at (%!i(int=100), %!i(int=740))
+    Printing text 犬
+  Rendering box at (%!i(int=100), %!i(int=760))
+    Printing text 石
+  Rendering box at (%!i(int=100), %!i(int=780))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=800))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=820))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=840))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=860))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=880))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=900))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=920))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=940))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=960))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=980))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1000))
+    Printing text 
+Rendering statusbox at (%!i(int=100), %!i(int=1020))
+  Rendering box at (%!i(int=100), %!i(int=1020))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1040))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1060))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1080))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1100))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1120))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1140))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1160))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1180))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1200))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1220))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1240))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1260))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1280))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1300))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1320))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1340))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1360))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1380))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1400))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1420))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1440))
+    Printing text 子
+  Rendering box at (%!i(int=100), %!i(int=1460))
+    Printing text 才
+  Rendering box at (%!i(int=100), %!i(int=1480))
+    Printing text 六
+  Rendering box at (%!i(int=100), %!i(int=1500))
+    Printing text 円
+  Rendering box at (%!i(int=100), %!i(int=1520))
+    Printing text 右
+  Rendering box at (%!i(int=100), %!i(int=1540))
+    Printing text 木
+  Rendering box at (%!i(int=100), %!i(int=1560))
+    Printing text 小
+  Rendering box at (%!i(int=100), %!i(int=1580))
+    Printing text 玉
+  Rendering box at (%!i(int=100), %!i(int=1600))
+    Printing text 本
+  Rendering box at (%!i(int=100), %!i(int=1620))
+    Printing text 立
+  Rendering box at (%!i(int=100), %!i(int=1640))
+    Printing text 目
+  Rendering box at (%!i(int=100), %!i(int=1660))
+    Printing text 夕
+  Rendering box at (%!i(int=100), %!i(int=1680))
+    Printing text 日
+  Rendering box at (%!i(int=100), %!i(int=1700))
+    Printing text 正
+  Rendering box at (%!i(int=100), %!i(int=1720))
+    Printing text 出
+  Rendering box at (%!i(int=100), %!i(int=1740))
+    Printing text 々
+  Rendering box at (%!i(int=100), %!i(int=1760))
+    Printing text 文
+  Rendering box at (%!i(int=100), %!i(int=1780))
+    Printing text 王
+  Rendering box at (%!i(int=100), %!i(int=1800))
+    Printing text 左
+  Rendering box at (%!i(int=100), %!i(int=1820))
+    Printing text 了
+  Rendering box at (%!i(int=100), %!i(int=1840))
+    Printing text 五
+  Rendering box at (%!i(int=100), %!i(int=1860))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1880))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1900))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1920))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1940))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1960))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=1980))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2000))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2020))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2040))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2060))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2080))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2100))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2120))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2140))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2160))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2180))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2200))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2220))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2240))
+    Printing text 
+  Rendering box at (%!i(int=100), %!i(int=2260))
+    Printing text 
+Rendering statusbox at (%!i(int=100), %!i(int=2280))
+Rendering statusbox at (%!i(int=200), %!i(int=0))
+Rendering statusbox at (%!i(int=200), %!i(int=0))
+  Rendering box at (%!i(int=200), %!i(int=0))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=20))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=40))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=60))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=80))
+    Printing text 元
+  Rendering box at (%!i(int=200), %!i(int=100))
+    Printing text 戸
+  Rendering box at (%!i(int=200), %!i(int=120))
+    Printing text 方
+  Rendering box at (%!i(int=200), %!i(int=140))
+    Printing text 兄
+  Rendering box at (%!i(int=200), %!i(int=160))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=180))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=200))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=220))
+    Printing text 
+Rendering statusbox at (%!i(int=200), %!i(int=240))
+  Rendering box at (%!i(int=200), %!i(int=240))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=260))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=280))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=300))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=320))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=340))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=360))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=380))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=400))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=420))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=440))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=460))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=480))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=500))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=520))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=540))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=560))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=580))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=600))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=620))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=640))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=660))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=680))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=700))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=720))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=740))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=760))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=780))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=800))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=820))
+    Printing text 父
+  Rendering box at (%!i(int=200), %!i(int=840))
+    Printing text 牛
+  Rendering box at (%!i(int=200), %!i(int=860))
+    Printing text 公
+  Rendering box at (%!i(int=200), %!i(int=880))
+    Printing text 久
+  Rendering box at (%!i(int=200), %!i(int=900))
+    Printing text 切
+  Rendering box at (%!i(int=200), %!i(int=920))
+    Printing text 少
+  Rendering box at (%!i(int=200), %!i(int=940))
+    Printing text 太
+  Rendering box at (%!i(int=200), %!i(int=960))
+    Printing text 止
+  Rendering box at (%!i(int=200), %!i(int=980))
+    Printing text 毛
+  Rendering box at (%!i(int=200), %!i(int=1000))
+    Printing text 外
+  Rendering box at (%!i(int=200), %!i(int=1020))
+    Printing text 母
+  Rendering box at (%!i(int=200), %!i(int=1040))
+    Printing text 矢
+  Rendering box at (%!i(int=200), %!i(int=1060))
+    Printing text 万
+  Rendering box at (%!i(int=200), %!i(int=1080))
+    Printing text 生
+  Rendering box at (%!i(int=200), %!i(int=1100))
+    Printing text 広
+  Rendering box at (%!i(int=200), %!i(int=1120))
+    Printing text 分
+  Rendering box at (%!i(int=200), %!i(int=1140))
+    Printing text 用
+  Rendering box at (%!i(int=200), %!i(int=1160))
+    Printing text 友
+  Rendering box at (%!i(int=200), %!i(int=1180))
+    Printing text 北
+  Rendering box at (%!i(int=200), %!i(int=1200))
+    Printing text 内
+  Rendering box at (%!i(int=200), %!i(int=1220))
+    Printing text 冬
+  Rendering box at (%!i(int=200), %!i(int=1240))
+    Printing text 半
+  Rendering box at (%!i(int=200), %!i(int=1260))
+    Printing text 市
+  Rendering box at (%!i(int=200), %!i(int=1280))
+    Printing text 引
+  Rendering box at (%!i(int=200), %!i(int=1300))
+    Printing text 台
+  Rendering box at (%!i(int=200), %!i(int=1320))
+    Printing text 古
+  Rendering box at (%!i(int=200), %!i(int=1340))
+    Printing text 今
+  Rendering box at (%!i(int=200), %!i(int=1360))
+    Printing text 心
+  Rendering box at (%!i(int=200), %!i(int=1380))
+    Printing text 午
+  Rendering box at (%!i(int=200), %!i(int=1400))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1420))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1440))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1460))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1480))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1500))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1520))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1540))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1560))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1580))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1600))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1620))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1640))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1660))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1680))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1700))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1720))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1740))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1760))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1780))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1800))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1820))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1840))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1860))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1880))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1900))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1920))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1940))
+    Printing text 
+  Rendering box at (%!i(int=200), %!i(int=1960))
+    Printing text 
+Rendering statusbox at (%!i(int=200), %!i(int=1980))
+Rendering statusbox at (%!i(int=200), %!i(int=1980))
+Rendering statusbox at (%!i(int=300), %!i(int=0))
+Rendering statusbox at (%!i(int=300), %!i(int=0))
+  Rendering box at (%!i(int=300), %!i(int=0))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=20))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=40))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=60))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=80))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=100))
+    Printing text 他
+  Rendering box at (%!i(int=300), %!i(int=120))
+    Printing text 代
+  Rendering box at (%!i(int=300), %!i(int=140))
+    Printing text 休
+  Rendering box at (%!i(int=300), %!i(int=160))
+    Printing text 足
+  Rendering box at (%!i(int=300), %!i(int=180))
+    Printing text 礼
+  Rendering box at (%!i(int=300), %!i(int=200))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=220))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=240))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=260))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=280))
+    Printing text 
+Rendering statusbox at (%!i(int=300), %!i(int=300))
+  Rendering box at (%!i(int=300), %!i(int=300))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=320))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=340))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=360))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=380))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=400))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=420))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=440))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=460))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=480))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=500))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=520))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=540))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=560))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=580))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=600))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=620))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=640))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=660))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=680))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=700))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=720))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=740))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=760))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=780))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=800))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=820))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=840))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=860))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=880))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=900))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=920))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=940))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=960))
+    Printing text 花
+  Rendering box at (%!i(int=300), %!i(int=980))
+    Printing text 世
+  Rendering box at (%!i(int=300), %!i(int=1000))
+    Printing text 氷
+  Rendering box at (%!i(int=300), %!i(int=1020))
+    Printing text 平
+  Rendering box at (%!i(int=300), %!i(int=1040))
+    Printing text 皮
+  Rendering box at (%!i(int=300), %!i(int=1060))
+    Printing text 央
+  Rendering box at (%!i(int=300), %!i(int=1080))
+    Printing text 皿
+  Rendering box at (%!i(int=300), %!i(int=1100))
+    Printing text 先
+  Rendering box at (%!i(int=300), %!i(int=1120))
+    Printing text 竹
+  Rendering box at (%!i(int=300), %!i(int=1140))
+    Printing text 主
+  Rendering box at (%!i(int=300), %!i(int=1160))
+    Printing text 糸
+  Rendering box at (%!i(int=300), %!i(int=1180))
+    Printing text 耳
+  Rendering box at (%!i(int=300), %!i(int=1200))
+    Printing text 虫
+  Rendering box at (%!i(int=300), %!i(int=1220))
+    Printing text 町
+  Rendering box at (%!i(int=300), %!i(int=1240))
+    Printing text 貝
+  Rendering box at (%!i(int=300), %!i(int=1260))
+    Printing text 不
+  Rendering box at (%!i(int=300), %!i(int=1280))
+    Printing text 仕
+  Rendering box at (%!i(int=300), %!i(int=1300))
+    Printing text 車
+  Rendering box at (%!i(int=300), %!i(int=1320))
+    Printing text 赤
+  Rendering box at (%!i(int=300), %!i(int=1340))
+    Printing text 百
+  Rendering box at (%!i(int=300), %!i(int=1360))
+    Printing text 打
+  Rendering box at (%!i(int=300), %!i(int=1380))
+    Printing text 村
+  Rendering box at (%!i(int=300), %!i(int=1400))
+    Printing text 見
+  Rendering box at (%!i(int=300), %!i(int=1420))
+    Printing text 早
+  Rendering box at (%!i(int=300), %!i(int=1440))
+    Printing text 気
+  Rendering box at (%!i(int=300), %!i(int=1460))
+    Printing text 名
+  Rendering box at (%!i(int=300), %!i(int=1480))
+    Printing text 写
+  Rendering box at (%!i(int=300), %!i(int=1500))
+    Printing text 年
+  Rendering box at (%!i(int=300), %!i(int=1520))
+    Printing text 申
+  Rendering box at (%!i(int=300), %!i(int=1540))
+    Printing text 去
+  Rendering box at (%!i(int=300), %!i(int=1560))
+    Printing text 字
+  Rendering box at (%!i(int=300), %!i(int=1580))
+    Printing text 男
+  Rendering box at (%!i(int=300), %!i(int=1600))
+    Printing text 号
+  Rendering box at (%!i(int=300), %!i(int=1620))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1640))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1660))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1680))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1700))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1720))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1740))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1760))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1780))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1800))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1820))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1840))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1860))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1880))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1900))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1920))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1940))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1960))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=1980))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2000))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2020))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2040))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2060))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2080))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2100))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2120))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2140))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2160))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2180))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2200))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2220))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2240))
+    Printing text 
+  Rendering box at (%!i(int=300), %!i(int=2260))
+    Printing text 
+Rendering statusbox at (%!i(int=300), %!i(int=2280))
+Rendering statusbox at (%!i(int=300), %!i(int=2280))
+Rendering statusbox at (%!i(int=400), %!i(int=0))
+Rendering statusbox at (%!i(int=400), %!i(int=0))
+  Rendering box at (%!i(int=400), %!i(int=0))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=20))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=40))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=60))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=80))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=100))
+    Printing text 米
+  Rendering box at (%!i(int=400), %!i(int=120))
+    Printing text 考
+  Rendering box at (%!i(int=400), %!i(int=140))
+    Printing text 空
+  Rendering box at (%!i(int=400), %!i(int=160))
+    Printing text 学
+  Rendering box at (%!i(int=400), %!i(int=180))
+    Printing text 弟
+  Rendering box at (%!i(int=400), %!i(int=200))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=220))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=240))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=260))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=280))
+    Printing text 
+Rendering statusbox at (%!i(int=400), %!i(int=300))
+  Rendering box at (%!i(int=400), %!i(int=300))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=320))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=340))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=360))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=380))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=400))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=420))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=440))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=460))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=480))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=500))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=520))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=540))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=560))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=580))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=600))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=620))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=640))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=660))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=680))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=700))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=720))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=740))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=760))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=780))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=800))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=820))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=840))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=860))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=880))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=900))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=920))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=940))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=960))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=980))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1000))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1020))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1040))
+    Printing text 図
+  Rendering box at (%!i(int=400), %!i(int=1060))
+    Printing text 形
+  Rendering box at (%!i(int=400), %!i(int=1080))
+    Printing text 交
+  Rendering box at (%!i(int=400), %!i(int=1100))
+    Printing text 多
+  Rendering box at (%!i(int=400), %!i(int=1120))
+    Printing text 同
+  Rendering box at (%!i(int=400), %!i(int=1140))
+    Printing text 行
+  Rendering box at (%!i(int=400), %!i(int=1160))
+    Printing text 色
+  Rendering box at (%!i(int=400), %!i(int=1180))
+    Printing text 西
+  Rendering box at (%!i(int=400), %!i(int=1200))
+    Printing text 体
+  Rendering box at (%!i(int=400), %!i(int=1220))
+    Printing text 声
+  Rendering box at (%!i(int=400), %!i(int=1240))
+    Printing text 来
+  Rendering box at (%!i(int=400), %!i(int=1260))
+    Printing text 言
+  Rendering box at (%!i(int=400), %!i(int=1280))
+    Printing text 走
+  Rendering box at (%!i(int=400), %!i(int=1300))
+    Printing text 谷
+  Rendering box at (%!i(int=400), %!i(int=1320))
+    Printing text 雨
+  Rendering box at (%!i(int=400), %!i(int=1340))
+    Printing text 金
+  Rendering box at (%!i(int=400), %!i(int=1360))
+    Printing text 草
+  Rendering box at (%!i(int=400), %!i(int=1380))
+    Printing text 音
+  Rendering box at (%!i(int=400), %!i(int=1400))
+    Printing text 青
+  Rendering box at (%!i(int=400), %!i(int=1420))
+    Printing text 林
+  Rendering box at (%!i(int=400), %!i(int=1440))
+    Printing text 回
+  Rendering box at (%!i(int=400), %!i(int=1460))
+    Printing text 肉
+  Rendering box at (%!i(int=400), %!i(int=1480))
+    Printing text 作
+  Rendering box at (%!i(int=400), %!i(int=1500))
+    Printing text 羽
+  Rendering box at (%!i(int=400), %!i(int=1520))
+    Printing text 里
+  Rendering box at (%!i(int=400), %!i(int=1540))
+    Printing text 近
+  Rendering box at (%!i(int=400), %!i(int=1560))
+    Printing text 池
+  Rendering box at (%!i(int=400), %!i(int=1580))
+    Printing text 社
+  Rendering box at (%!i(int=400), %!i(int=1600))
+    Printing text 会
+  Rendering box at (%!i(int=400), %!i(int=1620))
+    Printing text 光
+  Rendering box at (%!i(int=400), %!i(int=1640))
+    Printing text 売
+  Rendering box at (%!i(int=400), %!i(int=1660))
+    Printing text 当
+  Rendering box at (%!i(int=400), %!i(int=1680))
+    Printing text 毎
+  Rendering box at (%!i(int=400), %!i(int=1700))
+    Printing text 何
+  Rendering box at (%!i(int=400), %!i(int=1720))
+    Printing text 角
+  Rendering box at (%!i(int=400), %!i(int=1740))
+    Printing text 麦
+  Rendering box at (%!i(int=400), %!i(int=1760))
+    Printing text 自
+  Rendering box at (%!i(int=400), %!i(int=1780))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1800))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1820))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1840))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1860))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1880))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1900))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1920))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1940))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1960))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=1980))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2000))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2020))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2040))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2060))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2080))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2100))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2120))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2140))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2160))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2180))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2200))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2220))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2240))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2260))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2280))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2300))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2320))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2340))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2360))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2380))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2400))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2420))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2440))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2460))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2480))
+    Printing text 
+  Rendering box at (%!i(int=400), %!i(int=2500))
+    Printing text 
+Rendering statusbox at (%!i(int=400), %!i(int=2520))
+Rendering statusbox at (%!i(int=400), %!i(int=2520))
+Rendering statusbox at (%!i(int=500), %!i(int=0))
+Rendering statusbox at (%!i(int=500), %!i(int=0))
+  Rendering box at (%!i(int=500), %!i(int=0))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=20))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=40))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=60))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=80))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=100))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=120))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=140))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=160))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=180))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=200))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=220))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=240))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=260))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=280))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=300))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=320))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=340))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=360))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=380))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=400))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=420))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=440))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=460))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=480))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=500))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=520))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=540))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=560))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=580))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=600))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=620))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=640))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=660))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=680))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=700))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=720))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=740))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=760))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=780))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=800))
+    Printing text 妹
+  Rendering box at (%!i(int=500), %!i(int=820))
+    Printing text 直
+  Rendering box at (%!i(int=500), %!i(int=840))
+    Printing text 有
+  Rendering box at (%!i(int=500), %!i(int=860))
+    Printing text 亡
+  Rendering box at (%!i(int=500), %!i(int=880))
+    Printing text 化
+  Rendering box at (%!i(int=500), %!i(int=900))
+    Printing text 両
+  Rendering box at (%!i(int=500), %!i(int=920))
+    Printing text 州
+  Rendering box at (%!i(int=500), %!i(int=940))
+    Printing text 向
+  Rendering box at (%!i(int=500), %!i(int=960))
+    Printing text 安
+  Rendering box at (%!i(int=500), %!i(int=980))
+    Printing text 血
+  Rendering box at (%!i(int=500), %!i(int=1000))
+    Printing text 国
+  Rendering box at (%!i(int=500), %!i(int=1020))
+    Printing text 明
+  Rendering box at (%!i(int=500), %!i(int=1040))
+    Printing text 店
+  Rendering box at (%!i(int=500), %!i(int=1060))
+    Printing text 知
+  Rendering box at (%!i(int=500), %!i(int=1080))
+    Printing text 歩
+  Rendering box at (%!i(int=500), %!i(int=1100))
+    Printing text 死
+  Rendering box at (%!i(int=500), %!i(int=1120))
+    Printing text 南
+  Rendering box at (%!i(int=500), %!i(int=1140))
+    Printing text 思
+  Rendering box at (%!i(int=500), %!i(int=1160))
+    Printing text 室
+  Rendering box at (%!i(int=500), %!i(int=1180))
+    Printing text 点
+  Rendering box at (%!i(int=500), %!i(int=1200))
+    Printing text 科
+  Rendering box at (%!i(int=500), %!i(int=1220))
+    Printing text 茶
+  Rendering box at (%!i(int=500), %!i(int=1240))
+    Printing text 活
+  Rendering box at (%!i(int=500), %!i(int=1260))
+    Printing text 海
+  Rendering box at (%!i(int=500), %!i(int=1280))
+    Printing text 首
+  Rendering box at (%!i(int=500), %!i(int=1300))
+    Printing text 全
+  Rendering box at (%!i(int=500), %!i(int=1320))
+    Printing text 地
+  Rendering box at (%!i(int=500), %!i(int=1340))
+    Printing text 羊
+  Rendering box at (%!i(int=500), %!i(int=1360))
+    Printing text 夜
+  Rendering box at (%!i(int=500), %!i(int=1380))
+    Printing text 前
+  Rendering box at (%!i(int=500), %!i(int=1400))
+    Printing text 長
+  Rendering box at (%!i(int=500), %!i(int=1420))
+    Printing text 姉
+  Rendering box at (%!i(int=500), %!i(int=1440))
+    Printing text 画
+  Rendering box at (%!i(int=500), %!i(int=1460))
+    Printing text 次
+  Rendering box at (%!i(int=500), %!i(int=1480))
+    Printing text 京
+  Rendering box at (%!i(int=500), %!i(int=1500))
+    Printing text 曲
+  Rendering box at (%!i(int=500), %!i(int=1520))
+    Printing text 東
+  Rendering box at (%!i(int=500), %!i(int=1540))
+    Printing text 星
+  Rendering box at (%!i(int=500), %!i(int=1560))
+    Printing text 食
+  Rendering box at (%!i(int=500), %!i(int=1580))
+    Printing text 後
+  Rendering box at (%!i(int=500), %!i(int=1600))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1620))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1640))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1660))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1680))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1700))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1720))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1740))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1760))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1780))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1800))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1820))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1840))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1860))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1880))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1900))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1920))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1940))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1960))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=1980))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2000))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2020))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2040))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2060))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2080))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2100))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2120))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2140))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2160))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2180))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2200))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2220))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2240))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2260))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2280))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2300))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2320))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2340))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2360))
+    Printing text 
+  Rendering box at (%!i(int=500), %!i(int=2380))
+    Printing text 
+Rendering statusbox at (%!i(int=500), %!i(int=2400))
+Rendering statusbox at (%!i(int=500), %!i(int=2400))
+Rendering statusbox at (%!i(int=500), %!i(int=2400))
+Rendering statusbox at (%!i(int=600), %!i(int=0))
+  Rendering box at (%!i(int=600), %!i(int=0))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=20))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=40))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=60))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=80))
+    Printing text 札
+  Rendering box at (%!i(int=600), %!i(int=100))
+    Printing text 未
+  Rendering box at (%!i(int=600), %!i(int=120))
+    Printing text 黒
+  Rendering box at (%!i(int=600), %!i(int=140))
+    Printing text 組
+  Rendering box at (%!i(int=600), %!i(int=160))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=180))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=200))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=220))
+    Printing text 
+Rendering statusbox at (%!i(int=600), %!i(int=240))
+  Rendering box at (%!i(int=600), %!i(int=240))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=260))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=280))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=300))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=320))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=340))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=360))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=380))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=400))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=420))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=440))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=460))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=480))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=500))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=520))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=540))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=560))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=580))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=600))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=620))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=640))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=660))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=680))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=700))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=720))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=740))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=760))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=780))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=800))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=820))
+    Printing text 付
+  Rendering box at (%!i(int=600), %!i(int=840))
+    Printing text 記
+  Rendering box at (%!i(int=600), %!i(int=860))
+    Printing text 民
+  Rendering box at (%!i(int=600), %!i(int=880))
+    Printing text 由
+  Rendering box at (%!i(int=600), %!i(int=900))
+    Printing text 辺
+  Rendering box at (%!i(int=600), %!i(int=920))
+    Printing text 失
+  Rendering box at (%!i(int=600), %!i(int=940))
+    Printing text 必
+  Rendering box at (%!i(int=600), %!i(int=960))
+    Printing text 以
+  Rendering box at (%!i(int=600), %!i(int=980))
+    Printing text 末
+  Rendering box at (%!i(int=600), %!i(int=1000))
+    Printing text 家
+  Rendering box at (%!i(int=600), %!i(int=1020))
+    Printing text 弱
+  Rendering box at (%!i(int=600), %!i(int=1040))
+    Printing text 時
+  Rendering box at (%!i(int=600), %!i(int=1060))
+    Printing text 校
+  Rendering box at (%!i(int=600), %!i(int=1080))
+    Printing text 夏
+  Rendering box at (%!i(int=600), %!i(int=1100))
+    Printing text 紙
+  Rendering box at (%!i(int=600), %!i(int=1120))
+    Printing text 通
+  Rendering box at (%!i(int=600), %!i(int=1140))
+    Printing text 教
+  Rendering box at (%!i(int=600), %!i(int=1160))
+    Printing text 理
+  Rendering box at (%!i(int=600), %!i(int=1180))
+    Printing text 魚
+  Rendering box at (%!i(int=600), %!i(int=1200))
+    Printing text 鳥
+  Rendering box at (%!i(int=600), %!i(int=1220))
+    Printing text 船
+  Rendering box at (%!i(int=600), %!i(int=1240))
+    Printing text 雪
+  Rendering box at (%!i(int=600), %!i(int=1260))
+    Printing text 黄
+  Rendering box at (%!i(int=600), %!i(int=1280))
+    Printing text 週
+  Rendering box at (%!i(int=600), %!i(int=1300))
+    Printing text 欠
+  Rendering box at (%!i(int=600), %!i(int=1320))
+    Printing text 強
+  Rendering box at (%!i(int=600), %!i(int=1340))
+    Printing text 風
+  Rendering box at (%!i(int=600), %!i(int=1360))
+    Printing text 氏
+  Rendering box at (%!i(int=600), %!i(int=1380))
+    Printing text 高
+  Rendering box at (%!i(int=600), %!i(int=1400))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1420))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1440))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1460))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1480))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1500))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1520))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1540))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1560))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1580))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1600))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1620))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1640))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1660))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1680))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1700))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1720))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1740))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1760))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1780))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1800))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1820))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1840))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1860))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1880))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1900))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1920))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1940))
+    Printing text 
+  Rendering box at (%!i(int=600), %!i(int=1960))
+    Printing text 
+Rendering statusbox at (%!i(int=600), %!i(int=1980))
+Rendering statusbox at (%!i(int=600), %!i(int=1980))
+Rendering statusbox at (%!i(int=600), %!i(int=1980))
+Rendering statusbox at (%!i(int=700), %!i(int=0))
+  Rendering box at (%!i(int=700), %!i(int=0))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=20))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=40))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=60))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=80))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=100))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=120))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=140))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=160))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=180))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=200))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=220))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=240))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=260))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=280))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=300))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=320))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=340))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=360))
+    Printing text 朝
+  Rendering box at (%!i(int=700), %!i(int=380))
+    Printing text 対
+  Rendering box at (%!i(int=700), %!i(int=400))
+    Printing text 支
+  Rendering box at (%!i(int=700), %!i(int=420))
+    Printing text 君
+  Rendering box at (%!i(int=700), %!i(int=440))
+    Printing text 住
+  Rendering box at (%!i(int=700), %!i(int=460))
+    Printing text 身
+  Rendering box at (%!i(int=700), %!i(int=480))
+    Printing text 研
+  Rendering box at (%!i(int=700), %!i(int=500))
+    Printing text 森
+  Rendering box at (%!i(int=700), %!i(int=520))
+    Printing text 絵
+  Rendering box at (%!i(int=700), %!i(int=540))
+    Printing text 楽
+  Rendering box at (%!i(int=700), %!i(int=560))
+    Printing text 数
+  Rendering box at (%!i(int=700), %!i(int=580))
+    Printing text 所
+  Rendering box at (%!i(int=700), %!i(int=600))
+    Printing text 電
+  Rendering box at (%!i(int=700), %!i(int=620))
+    Printing text 反
+  Rendering box at (%!i(int=700), %!i(int=640))
+    Printing text 間
+  Rendering box at (%!i(int=700), %!i(int=660))
+    Printing text 者
+  Rendering box at (%!i(int=700), %!i(int=680))
+    Printing text 道
+  Rendering box at (%!i(int=700), %!i(int=700))
+    Printing text 助
+  Rendering box at (%!i(int=700), %!i(int=720))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=740))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=760))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=780))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=800))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=820))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=840))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=860))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=880))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=900))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=920))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=940))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=960))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=980))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=1000))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=1020))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=1040))
+    Printing text 
+  Rendering box at (%!i(int=700), %!i(int=1060))
+    Printing text 
+Rendering statusbox at (%!i(int=700), %!i(int=1080))
+Rendering statusbox at (%!i(int=700), %!i(int=1080))
+Rendering statusbox at (%!i(int=700), %!i(int=1080))
+Rendering statusbox at (%!i(int=700), %!i(int=1080))
