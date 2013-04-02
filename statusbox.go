@@ -1,12 +1,12 @@
 package main
 
 import (
-	"image/color"
 	"fmt"
+	"image/color"
 )
 
 type StatusBox struct {
-	Boxes []*Box
+	Boxes     []*Box
 	HeaderBox *Box
 }
 
@@ -17,7 +17,7 @@ func CreateFromLevel(level *Level, status ItemStatus) StatusBox {
 	statusBox.InitializeWithTypeAndAppend(&filteredLevel, typeRadical)
 	statusBox.InitializeWithTypeAndAppend(&filteredLevel, typeKanji)
 	statusBox.InitializeWithTypeAndAppend(&filteredLevel, typeVocabulary)
-	statusBox.HeaderBox = &Box{GetStringFromStatus(status), color.RGBA{0,0,0,255}, color.RGBA{0,0,0,255}}
+	statusBox.HeaderBox = &Box{GetStringFromStatus(status), color.RGBA{0, 0, 0, 255}, color.RGBA{0, 0, 0, 255}}
 	return statusBox
 }
 

@@ -1,10 +1,10 @@
 package main
 
 import (
-	"fmt"
 	"bufio"
 	"code.google.com/p/freetype-go/freetype"
 	"code.google.com/p/freetype-go/freetype/truetype"
+	"fmt"
 	"image"
 	"image/draw"
 	"image/png"

@@ -6,7 +6,7 @@ type LevelBox struct {
 
 func NewLevelBox(level *Level) *LevelBox {
 	result := &LevelBox{make([]StatusBox, 5)}
-	for i, _ := range result.Boxes {
+	for i := range result.Boxes {
 		result.Boxes[i] = CreateFromLevel(level, ItemStatus(i+1))
 	}
 	return result

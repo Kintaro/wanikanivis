@@ -8,8 +8,8 @@ import (
 )
 
 type Box struct {
-	Content string
-	Color   color.RGBA
+	Content   string
+	Color     color.RGBA
 	TypeColor color.RGBA
 }
 
@@ -18,7 +18,7 @@ func (box *Box) Render(context *Context, x int, y int, w int) {
 	draw.Draw(context.Img, rectangle, &image.Uniform{&box.Color}, image.ZP, draw.Src)
 	typeRectangle := image.Rect(x, y, x+10, y+box.GetHeight())
 	draw.Draw(context.Img, typeRectangle, &image.Uniform{&box.TypeColor}, image.ZP, draw.Src)
-	box.RenderText(context, x + 10, y)
+	box.RenderText(context, x+10, y)
 }
 
 func (box *Box) RenderText(context *Context, x int, y int) {
