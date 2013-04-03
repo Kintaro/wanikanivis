@@ -27,6 +27,7 @@ type Context struct {
 func Render(levels []Level) {
 	levelBoxes := make([]*LevelBox, len(levels))
 	maxHeight := 0
+	maxWidth := len(levels) * 120
 
 	for i, level := range levels {
 		levelBoxes[i] = NewLevelBox(&level)
@@ -41,7 +42,7 @@ func Render(levels []Level) {
 	fontcontext.SetDPI(72)
 	fontcontext.SetFont(font)
 	fontcontext.SetFontSize(18)
-	img := image.NewRGBA(image.Rect(0, 0, 1920, maxHeight))
+	img := image.NewRGBA(image.Rect(0, 0, maxWidth, maxHeight))
 	fontcontext.SetDst(img)
 	context := Context{img, fontcontext, font, 12.0}
 
