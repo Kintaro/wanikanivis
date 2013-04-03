@@ -112,7 +112,7 @@ func (item *Item) Color() color.RGBA {
 	case statusEnlightened:
 		return color.RGBA{0, 147, 221, 255}
 	case statusBurned:
-		return color.RGBA{240, 240, 240, 255}
+		return color.RGBA{74, 74, 74, 255}
 	default:
 		return color.RGBA{255, 0, 0, 255}
 	}
